@@ -1,3 +1,11 @@
+### Penguins
+A Unity ML-Agents environment where a penguin agent learns to catch fish and feed its baby using Proximal Policy Optimization (PPO).
+
+### Ros_PPO
+A PPO-based training system for robotic navigation, integrated with ROS or Unity environments. Includes training logs and experimental results.
+
+### Project_Combine_FasterRCNNwithDistance
+A hybrid project that combines Faster R-CNN object detection with distance regression and reinforcement learning using PPO.
 
 Video Link: https://udmercy0-my.sharepoint.com/:f:/g/personal/zhangxi24_udmercy_edu/EpyqJ17c2hBEuPGpOsPlh7MBVF6soV7Xos2Qp-8evXkZsg?e=gG8tmW
 
