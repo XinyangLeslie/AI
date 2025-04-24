@@ -14,7 +14,7 @@ Video Link: https://udmercy0-my.sharepoint.com/:f:/g/personal/zhangxi24_udmercy_
 3. PPO_Training.mp4: Captures the training process of the agent learning to interact intelligently using PPO.
 4. Unity_Penguins.mp4: Shows the Unity penguin environment with agent-object interaction.
 
-Thanks to teammates Ben and Jamuna for their cooperation and help, and professor Caitlin Snyder for her guidance and support!
-reference Link: https://github.com/Benyamain/Penguins
+**Thanks to teammates Ben and Jamuna for their cooperation and help, and professor Caitlin Snyder for her guidance and support!
+reference Link: https://github.com/Benyamain/Penguins**
 
 
